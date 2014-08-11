@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC3695F4-15CA-40DD-9E3E-5BA7466679D9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoIOSApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B242037-1B8D-4712-967F-42D9B99E10E7</key>
+		<string>https://github.com/ZeoInsight/DemoIOSApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoIOSApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B242037-1B8D-4712-967F-42D9B99E10E7</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ZeoInsight/DemoIOSApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B242037-1B8D-4712-967F-42D9B99E10E7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B242037-1B8D-4712-967F-42D9B99E10E7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoIOSApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

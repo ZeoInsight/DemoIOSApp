@@ -1,0 +1,20 @@
+//
+//  ZBAnalyticsInfoViewControllers.h
+//  DemoIOSApp
+//
+//  Created by Igor Bezpaliy on 5/14/14.
+//  Copyright (c) 2014 com.zeo. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ZBAnalyticsInfoViewControllers : UITableViewController
+{
+@private
+	IBOutlet UILabel* _productKeyLabel;
+	IBOutlet UILabel* _deviceIDLabel;
+	IBOutlet UILabel* _appVersionLabel;
+	IBOutlet UILabel* _launchCountLabel;
+}
+
+@end
